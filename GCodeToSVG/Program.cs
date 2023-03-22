@@ -6,6 +6,9 @@ namespace GCodeToSVG
     {
         static void Main(string[] args)
         {
+            string gcfilename = args[0];
+            string svgfilename = args[1];
+
 
         }
     }
